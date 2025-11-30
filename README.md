@@ -5,7 +5,7 @@ link
 [here](https://wearedevs.net/obfuscator)
 ลิ้งทรี Tree
 [here](https://linktr.ee/_jwdes)
-**# BPHubScript **
+
 Get Script
 ```batch
 loadstring(game:HttpGet((""), true))()
