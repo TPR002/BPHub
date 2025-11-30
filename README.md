@@ -1,10 +1,3 @@
-# BPHub
-Script Roblox
-link
-กันก็อป script
-[here](https://wearedevs.net/obfuscator)
-ลิ้งทรี Tree
-[here](https://linktr.ee/_jwdes)
 สคริป BP (ผมสร้าง)
 ```batch
 -- สร้างโดยคนไทย
@@ -36,3 +29,10 @@ Fisch ตกปลา
 ```batch
 loadstring(game:HttpGet(("https://pastefy.app/IYAJg99E/raw"), true))()
 ```
+# BPHub
+Script Roblox
+link
+กันก็อป script
+[here](https://wearedevs.net/obfuscator)
+ลิ้งทรี Tree
+[here](https://linktr.ee/_jwdes)
