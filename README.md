@@ -22,12 +22,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/mai
 ```
 99คืนออโต้หาเพชร
 ```batch
-loadstring(game:HttpGet(("https://pastefy.app/DMp2828a/raw"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/TPR002/BPHub/main/Script/BP9DS"), true))()
 --key 7952
 ```
 Fisch ตกปลา
 ```batch
-loadstring(game:HttpGet(("https://pastefy.app/IYAJg99E/raw"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/TPR002/BPHub/main/Script/BPFS"), true))()
 ```
 # BPHub 
 *** Script Roblox ***
