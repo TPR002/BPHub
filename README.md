@@ -10,13 +10,13 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/TPR002/BPHub/main/Sc
 ```
 99 day
 ```batch
-loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/refs/heads/main/FoxnameHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/main/FoxnameHub.lua"))()
 ```
 99day Thai เมนูภาษาไทย
 ```batch
 -- ไม่ต้องแปลภาษานะครับ คัดลอกเลยย
 
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/MQPS7/99-Night-in-the-Forset/refs/heads/main/99v3'))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/MQPS7/99-Night-in-the-Forset/main/99v3'))()
 
 -- ใช้อย่างระมัดระวัง!!
 ```
