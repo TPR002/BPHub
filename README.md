@@ -16,7 +16,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/mai
 ```batch
 -- ไม่ต้องแปลภาษานะครับ คัดลอกเลยย
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/MQPS7/99-Night-in-the-Forset/main/99v3"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MQPS7/99-Night-in-the-Forset/main/99v7"))()
 
 -- ใช้อย่างระมัดระวัง!!
 ```
