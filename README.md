@@ -16,7 +16,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TPR002/BPHub/main/Scr
 ```batch
 -- ไม่ต้องแปลภาษานะครับ คัดลอกเลยย
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/MQPS7/99-Night-in-the-Forset/main/99v7"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/TPR002/BPHub/main/Script/Thai_99-Day.lua"))()
 
 -- ใช้อย่างระมัดระวัง!!
 ```
