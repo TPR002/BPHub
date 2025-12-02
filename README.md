@@ -1,6 +1,21 @@
-All Script Key : 7952
+# All Script
+*** Key ***
 
-สคริป BP (ผมสร้าง)
+* 7952
+
+**** :) ****
+# โซเซ๊ยล
+*** Tiktok ***
+
+* @_jwdes
+
+*** YouTube ***
+
+* @jwdes
+
+*** Thank you ***
+
+สคริป BP (สร้างโดย BlackpopHub)
 ```batch
 -- สร้างโดยคนไทย
 -- คัดลอกไปวางใช้ได้เลย
@@ -30,7 +45,7 @@ Fisch ตกปลา
 ```batch
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/TPR002/BPHub/main/Script/BPFS.lua"), true))()
 ```
-# BPHub 
+# Script All
 *** Script Roblox ***
 
 * ซัพพอร์ต
