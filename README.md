@@ -1,3 +1,5 @@
+All Script Key : 7952
+
 สคริป BP (ผมสร้าง)
 ```batch
 -- สร้างโดยคนไทย
@@ -23,7 +25,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/TPR002/BPHub/main/Scr
 99คืนออโต้หาเพชร
 ```batch
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/TPR002/BPHub/main/Script/BP9DS.lua"), true))()
---key 7952
 ```
 Fisch ตกปลา
 ```batch
