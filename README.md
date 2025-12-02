@@ -10,7 +10,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/TPR002/BPHub/main/Sc
 ```
 99 day
 ```batch
-loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/Script/main/FoxnameHub.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TPR002/BPHub/main/Script/FoxnameHub_99-Day.lua"))()
 ```
 99day Thai เมนูภาษาไทย
 ```batch
